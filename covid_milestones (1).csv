@@ -1,0 +1,16 @@
+﻿Date,Wave,Event,Impact_Level,Relevant_to_HCM,Reason
+23/01/2020,Wave_1,Ca COVID-19 đầu tiên tại Việt Nam (TP.HCM),Medium,Yes,Xảy ra trực tiếp tại HCM - gây tâm lý bất an thị trường
+01/04/2020,Wave_1,Chính phủ ban lệnh giãn cách xã hội toàn quốc 15 ngày,High,Yes,HCM thực hiện giãn cách - giao dịch BĐS bị đình trệ
+16/04/2020,Wave_1,Kết thúc làn sóng 1 - kiểm soát thành công,Low,Yes,Tâm lý thị trường HCM phục hồi sau kiểm soát dịch
+25/07/2020,Wave_2,Làn sóng 2 bùng phát tại Đà Nẵng,High,Indirect,Không phong tỏa HCM nhưng gây tâm lý thận trọng toàn quốc
+01/08/2020,Wave_2,Giãn cách xã hội tại Đà Nẵng và một số tỉnh,High,Indirect,Ảnh hưởng gián tiếp qua tâm lý & dòng vốn dịch chuyển
+01/12/2020,Wave_2,Kết thúc làn sóng 2,Low,Indirect,Thị trường toàn quốc ổn định trở lại
+28/01/2021,Wave_3,Làn sóng 3 bùng phát tại Hải Dương,Medium,Indirect,Không ảnh hưởng trực tiếp HCM - chỉ tâm lý thị trường
+25/03/2021,Wave_3,Kết thúc làn sóng 3,Low,Indirect,Thị trường tiếp tục ổn định
+27/04/2021,Wave_4,Làn sóng 4 bắt đầu - biến thể Delta,Very_High,Yes,Khởi đầu giai đoạn nghiêm trọng nhất với thị trường HCM
+31/05/2021,Wave_4,TP.HCM ghi nhận cụm dịch lớn - bắt đầu Chỉ thị 15,Very_High,Yes,Giao dịch BĐS HCM bắt đầu bị ảnh hưởng trực tiếp
+09/07/2021,Wave_4,TP.HCM áp dụng Chỉ thị 16 - phong tỏa toàn thành phố,Very_High,Yes,Thị trường BĐS HCM gần như đóng băng hoàn toàn
+23/08/2021,Wave_4,TP.HCM siết chặt phong tỏa - Chỉ thị 16+,Very_High,Yes,Đỉnh điểm đóng băng thị trường BĐS HCM
+01/10/2021,Wave_4,TP.HCM bắt đầu mở cửa trở lại từng bước,High,Yes,Thị trường BĐS HCM bắt đầu phục hồi
+11/10/2021,Wave_4,Việt Nam chuyển chiến lược sang Sống chung với COVID,Medium,Yes,Tâm lý nhà đầu tư HCM tích cực trở lại
+15/03/2022,Recovery,Việt Nam mở cửa hoàn toàn - không còn kiểm soát biên giới,Low,Yes,Thị trường BĐS HCM hoàn toàn phục hồi
